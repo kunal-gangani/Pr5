@@ -1,3 +1,23 @@
+/*
+Q3) WAP to transpose the 2-D array Matrix.
+Enter the Size of Row in Array: 3
+Enter the Size of Column in Array: 3
+
+Enter the Value for Element A[0][0]: 1
+Enter the Value for Element A[0][1]: 2
+Enter the Value for Element A[0][2]: 3
+Enter the Value for Element A[1][0]: 4
+Enter the Value for Element A[1][1]: 5
+Enter the Value for Element A[1][2]: 6
+Enter the Value for Element A[2][0]: 7
+Enter the Value for Element A[2][1]: 8
+Enter the Value for Element A[2][2]: 9
+
+The Transpose of Matrix is:
+1 4 7
+2 5 8
+3 6 9
+*/
 #include<stdio.h>
 void main(){
 	int r,c;
