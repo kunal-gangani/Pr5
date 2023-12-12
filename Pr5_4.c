@@ -1,3 +1,25 @@
+/*
+Q4) WAP to print the total sum of a particular Row and Column from an 2-D array.
+Enter the Size of Rows: 3
+Enter the Size of Columns: 3
+
+Enter the Value of A[0][0]: 1
+Enter the Value of A[0][1]: 4
+Enter the Value of A[0][2]: 5
+Enter the Value of A[1][0]: 78
+Enter the Value of A[1][1]: 4
+Enter the Value of A[1][2]: 5
+Enter the Value of A[2][0]: 2
+Enter the Value of A[2][1]: 4
+Enter the Value of A[2][2]: 78
+
+Enter the Row number: 2
+2 4 78
+The Sum of Row is : 84
+Enter the Column number: 2
+5 5 78
+The Sum of Column is : 88
+*/
 #include<stdio.h>
 void main(){
 	int r,c;
